@@ -21,24 +21,18 @@
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Design & 3D
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 
 ### IoT & Hardware
@@ -63,8 +57,8 @@
 
 ### Development Tools & IDEs
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Thonny](https://img.shields.io/badge/Thonny-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
@@ -74,7 +68,7 @@
 **Mobile App + IoT Solution** for real-time bus tracking system
 - **Tech Stack**: ESP32, MicroPython, Android (Kotlin), iOS, Firebase
 - Real-time GPS tracking with ESP32 hardware
-- Cross-platform mobile apps (Android & iOS)
+- Native mobile apps for Android & iOS
 - Custom 3D visualizations for route mapping
 - IoT integration for live location updates
 
@@ -94,47 +88,39 @@
 - Mobile dashboard with custom Figma design
 - Smart monitoring with real-time analytics
 
-### 🏫 [APGI - Academic System](https://github.com/caesarelang/APGI)
-**Academic Management Platform**
-- **Tech Stack**: Laravel, MySQL, Bootstrap, Android (Kotlin), iOS
-- Student information system
-- Cross-platform mobile apps
-- Modern UI designed with Figma
-- Performance tracking and analytics
-
-### 📚 [Secation - Educational Platform](https://github.com/caesarelang/Secation)
-**Learning Management System**
-- **Tech Stack**: CodeIgniter, MySQL, JavaScript, Android (Kotlin)
-- Interactive learning modules with 3D elements
-- Mobile learning companion app
-- Educational content management
-- Custom illustrations and 3D models
+### 🏢 [APGI - Company Profile Website](https://github.com/caesarelang/APGI)
+**Corporate Web Application** for company profile and portfolio
+- **Tech Stack**: Laravel, MySQL, Bootstrap, JavaScript
+- Professional company profile website
+- Portfolio showcase and services presentation
+- Content management system
+- Responsive design and modern UI
 
 ## 💻 My Expertise Areas
 
-### 📱 **Cross-Platform Mobile Development**
+### 📱 **Native Mobile Development**
 - **Android** development with **Kotlin** in **Android Studio**
-- **iOS** development with **Swift** in **Xcode**
-- Modern mobile architecture (MVVM, Clean Architecture)
+- **iOS** development for modern mobile applications
+- Native mobile architecture (MVVM, Clean Architecture)
 - Material Design & Human Interface Guidelines
 
 ### 🎨 **Design & 3D Modeling**
 - **UI/UX Design** with **Figma** - from wireframes to prototypes
-- **3D Design** and modeling for product visualization
+- **3D Design** and modeling with **SketchUp** for product visualization
 - Prototyping and user experience optimization
 - Custom graphics and illustrations
 
 ### 🔧 **Hardware & Repair Services**
 - **Mobile phone repair** - lightweight and efficient service
 - **ESP32** and **Arduino** development
-- **MicroPython** programming for embedded systems
+- **MicroPython** programming with **Thonny IDE** for embedded systems
 - Hardware troubleshooting and component-level repairs
 
-### 🌐 **Full-Stack Development**
-- Backend development with **Laravel** and **CodeIgniter**
+### 🌐 **Web Development**
+- **Laravel** and **CodeIgniter** for robust web applications
+- **Corporate websites** and company profile development
 - Database design with **MySQL** and **Supabase**
 - RESTful API development and consumption
-- Real-time data synchronization
 
 ## 📊 GitHub Stats
 
@@ -159,29 +145,42 @@
 
 ## 🚀 What I'm Currently Learning
 
-- **SwiftUI** for modern iOS development
 - **Jetpack Compose** for modern Android UI
-- Advanced **3D modeling** techniques
-- **AR/VR** integration in mobile apps
+- Advanced **MicroPython** techniques for IoT optimization
+- Advanced **3D modeling** techniques with SketchUp
 - **Machine Learning** integration with IoT devices
 - **Microservices** architecture
+
+## 🛠️ Development Workflow
+
+### 🔧 **IoT Development Process**
+- **Hardware Design** → **3D Prototyping** with SketchUp
+- **MicroPython Programming** with **Thonny IDE**
+- **ESP32 Integration** and sensor calibration
+- **Native Mobile App Development** for device control
+- **Backend API** development for data management
 
 ## 🛠️ Services I Offer
 
 ### 📱 **Mobile Development**
-- Native Android & iOS app development
-- Cross-platform solutions
+- Native Android development with Kotlin
+- Native iOS app development
 - App store deployment and optimization
+
+### 🌐 **Web Development**
+- Corporate websites and company profiles
+- Laravel web applications
+- E-commerce and business solutions
 
 ### 🎨 **Design Services**
 - UI/UX design with Figma
-- 3D modeling and visualization
+- 3D modeling and visualization with SketchUp
 - Product design and prototyping
 
 ### 🔧 **Hardware Services**
 - Mobile phone repair (lightweight service)
-- IoT device development
-- Hardware troubleshooting
+- IoT device development with ESP32
+- Hardware troubleshooting and programming
 
 ## 🌐 Connect with Me
 
