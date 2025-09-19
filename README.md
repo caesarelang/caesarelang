@@ -73,9 +73,9 @@
 
 ### 👆 [IoT Fingerprint Attendance System](https://github.com/caesarelang/Aplikasi-Presensi---IoT-Fingerprint)
 **Smart Attendance System** using fingerprint technology
-- **Tech Stack**: ESP32, MicroPython, Android (Kotlin), PHP, MySQL
+- **Tech Stack**: ESP32, MicroPython, Android (Kotlin), Firebase
 - Biometric authentication with hardware sensors
-- Mobile companion apps for both Android & iOS
+- Mobile companion apps for both Android
 - UI/UX designed with Figma
 - Real-time data synchronization between hardware and mobile
 
@@ -99,7 +99,6 @@
 
 ### 📱 **Native Mobile Development**
 - **Android** development with **Kotlin** in **Android Studio**
-- **iOS** development for modern mobile applications
 - Native mobile architecture (MVVM, Clean Architecture)
 - Material Design & Human Interface Guidelines
 
