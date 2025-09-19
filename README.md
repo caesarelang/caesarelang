@@ -4,18 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=IoT+Developer;Mobile+App+Developer;3D+Designer;Hardware+%26+Repair+Specialist;UI%2FUX+Designer;Full-Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-
-- 🔭 I'm currently working on **IoT projects** and **Mobile Applications**
-- 🌱 I'm passionate about **Internet of Things**, **Mobile Development**, and **Tracking Systems**
-- 📱 Expert in **Android & iOS development** using **Kotlin** and **Android Studio**
-- 🎨 Creative **3D Designer** and **UI/UX Designer** with **Figma**
-- 🔧 **Hardware repair specialist** - offering lightweight mobile phone repair services
-- 🛠️ I specialize in **ESP32 development** with **MicroPython** and **hardware integration**
-- 💡 I love creating solutions that bridge hardware, software, and design
-- 📧 Reach me at: **caesarelangpaksi@gmail.com**
-- ⚡ Fun fact: I can design it in 3D, code it, and fix it if it breaks! 🛠️
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -60,6 +48,18 @@
 ![Thonny](https://img.shields.io/badge/Thonny-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+## 🚀 About Me
+
+- 🔭 I'm currently working on **IoT projects** and **Mobile Applications**
+- 🌱 I'm passionate about **Internet of Things**, **Mobile Development**, and **Tracking Systems**
+- 📱 Expert in **Android & iOS development** using **Kotlin** and **Android Studio**
+- 🎨 Creative **3D Designer** and **UI/UX Designer** with **Figma**
+- 🔧 **Hardware repair specialist** - offering lightweight mobile phone repair services
+- 🛠️ I specialize in **ESP32 development** with **MicroPython** and **hardware integration**
+- 💡 I love creating solutions that bridge hardware, software, and design
+- 📧 Reach me at: **caesarelangpaksi@gmail.com**
+- ⚡ Fun fact: I can design it in 3D, code it, and fix it if it breaks! 🛠️
 
 ## 🏆 Featured Projects
 
