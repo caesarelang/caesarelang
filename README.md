@@ -67,8 +67,8 @@
 **Mobile App + IoT Solution** for real-time bus tracking system
 - **Tech Stack**: ESP32, MicroPython, Android (Kotlin), iOS, Firebase
 - Real-time GPS tracking with ESP32 hardware
-- Native mobile apps for Android & iOS
-- Custom 3D visualizations for route mapping
+- Native mobile apps for Android
+- Custom 3D visualizations for box of tools Satria Tracking
 - IoT integration for live location updates
 
 ### 👆 [IoT Fingerprint Attendance System](https://github.com/caesarelang/Aplikasi-Presensi---IoT-Fingerprint)
